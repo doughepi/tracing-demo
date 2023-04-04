@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+black
+opentelemetry-distro
+opentelemetry-exporter-gcp-trace
+opentelemetry-instrumentation-requests
+opentelemetry-instrumentation-fastapi
+click
